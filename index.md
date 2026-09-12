@@ -28,3 +28,9 @@ Este jardín crece con tus ideas. Si eres lector y quieres proponer un nuevo enf
 
 "No estamos aquí para reformar la educación, sino para recordarla."
 — *Roberto Alejandro Lopez*
+
+### 📩 Planta tu Semilla
+Este jardín crece con tus ideas. Si eres lector y quieres proponer un nuevo enfoque para la educación consciente, participa en nuestro taller de co-creación.
+
+"No estamos aquí para reformar la educación, sino para recordarla."
+— *Roberto Alejandro Lopez*
