@@ -3,7 +3,7 @@ title: "🌿 El Taller del Quijote Cuántico: Inicio"
 dg-publish: true
 ---
 
-# Bienvenido al Taller del Quijote Cuántico
+# Bienvenido al Taller del Quijote Cuántico...
 
 Has salido de las páginas del libro para entrar en un **espacio vivo**. Este no es un sitio web tradicional; es un **Jardín Digital** donde las ideas se entrelazan como neuronas.
 
